@@ -1,0 +1,8 @@
+---
+title: "Project 1"
+author: "Maya Szymborski"
+format: html
+editor: source
+---
+
+# Part 1
